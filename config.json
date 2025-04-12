@@ -1,0 +1,25 @@
+{
+  "host": "play.ragnarockmc.in",
+  "port": 25565,
+  "username": "godkiller987654",
+  "password": "543216",
+  "version": "1.20.1",
+  "position": {
+    "x": 1584.5,
+    "y": 199,
+    "z": -2083.5
+  },
+  "afkOptions": {
+    "lookInterval": 30000,
+    "moveInterval": 60000,
+    "jumpInterval": 120000,
+    "reconnectDelay": 5000,
+    "autoReconnect": true,
+    "autoStartAfk": true
+  },
+  "chatControl": {
+    "enabled": true,
+    "prefix": "!afk",
+    "allowedUsers": ["*"]
+  }
+}
